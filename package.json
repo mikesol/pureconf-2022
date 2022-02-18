@@ -1,0 +1,17 @@
+{
+  "name": "pureconf-2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mike Solomon",
+  "license": "ISC",
+  "devDependencies": {
+    "purescript": "^0.14.5",
+    "purs-tidy": "^0.7.0",
+    "spago": "^0.20.7"
+  }
+}
